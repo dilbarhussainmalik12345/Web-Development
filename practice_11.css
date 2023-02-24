@@ -1,0 +1,65 @@
+#m1 
+{
+    color: red;
+    font-size: 100px;
+    text-decoration: underline;
+    text-align: center;
+
+
+}
+
+#m2
+{
+    color: blue;
+    font-size: 50px;
+    text-decoration: bold;
+    font-style: italic;
+    text-align: left;
+}
+
+#m3
+{
+    color: red;
+    font-size: 50px;
+    text-decoration: bold;
+
+
+}
+
+#m4
+{
+    color: cyan;
+    font-size: 50px;
+    text-decoration: underline;
+   text-align: left;
+
+
+}
+
+#m5
+{
+    color: blue;
+    font-size: 50px;
+    text-decoration: bold;
+    font-style: italic;
+    text-align: left;
+}
+
+#m6
+{
+    color: red;
+    font-size: 60px;
+    text-decoration: bold;
+
+
+}
+
+#b1
+{
+    background-color: black;
+
+}
+
+
+
+

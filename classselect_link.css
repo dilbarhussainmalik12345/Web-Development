@@ -1,0 +1,29 @@
+
+
+#m1 
+{
+    color: cyan;
+    font-size: 35px;
+    text-decoration: underline;
+    text-align: center;
+
+
+}
+
+#m2
+{
+    color: blue;
+    font-size: 50px;
+    text-decoration: bold;
+    font-style: italic;
+    text-align: right;
+}
+
+#m3
+{
+    color: red;
+    font-size: 60px;
+    text-decoration: bold;
+
+
+}

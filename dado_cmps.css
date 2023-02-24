@@ -1,0 +1,41 @@
+h1
+{
+    text-align: center;
+    font-weight: bold;
+    text-decoration: underline;
+
+}
+body
+{
+    background-image: url(dadu1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+     
+}
+
+p
+{
+    text-align: center;
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: 140%;
+    
+
+
+
+}
+.dadu_cmps
+{
+    font-size: large;
+    padding: 10%;
+    font-weight: bold;
+    text-transform: capitalize;
+    color: bisque;
+
+}
+.time
+{
+    text-decoration: underline;
+    font-weight: bold;
+    color: black;
+}

@@ -1,0 +1,59 @@
+table{
+
+    
+    width: 100%;
+    background-color: blanchedalmond;
+    text-align: center;
+    font-weight: bold;
+    table-layout: auto;
+    border-collapse: collapse;
+    
+}
+tbody{
+    height: 590px;
+    font-size: xx-large;
+}
+th
+{
+    background-image: url(pak.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-size: cover;
+    color: white;
+}
+.s1
+{
+    background-image: url(sndh.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-size: cover;
+    color: black;
+}
+.s2
+{
+    background-image: url(blch.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-size: cover;
+    color: black;
+}
+.s3
+{
+    background-image: url(kpk.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-size: cover;
+    color: black;
+}
+.s4
+{
+    background-image: url(panjb.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-size: cover;
+    color: black;
+}
+tr
+{
+
+}

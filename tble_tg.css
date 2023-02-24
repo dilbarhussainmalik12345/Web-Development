@@ -1,0 +1,15 @@
+Table,tbody
+{
+    
+    width: 100%;
+    background-color: blanchedalmond;
+    text-align: center;
+    font-weight: bold;
+    table-layout: auto;
+    border-collapse: collapse;
+}
+
+table,tbody{
+
+    height: 159px;
+}

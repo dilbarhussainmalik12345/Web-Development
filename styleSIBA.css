@@ -1,0 +1,49 @@
+h1
+{
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;
+    text-decoration: underline;
+    
+}
+#body_mainIBA
+{
+    background-image: url(siba.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#cmpus
+{
+    text-align: center;
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: x-large;
+}
+
+.btn
+{
+ 
+    background-color: darkgreen;
+    size: 30px;
+    color: white;
+    border-radius: 8%;
+    font-size: 20px;
+    border: none;
+    margin-left: 17%;
+
+    
+}
+.btn:hover
+{
+    background-color: royalblue;
+
+}
+#intro
+{
+    text-align: justify;
+    font-weight: bold;
+    color: black;
+    font-size: 20px;
+}
+

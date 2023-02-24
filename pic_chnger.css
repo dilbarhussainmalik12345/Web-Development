@@ -1,0 +1,17 @@
+#s1
+{
+    font-size: 53px;
+    color: cyan;
+
+    
+    font-weight: bold;
+    width: 50px;
+    height: 40px;
+}
+
+
+body
+{
+    background-color: black;
+    text-align: center;
+}

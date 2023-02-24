@@ -1,0 +1,33 @@
+h1
+{
+    text-align: center;
+
+}
+body
+{
+    background-image: url(kkot.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+p
+{
+    text-align: center;
+    font-size: 140%;
+    font-weight: bold;
+
+}
+
+.kkcampus
+{
+    font-size: large;
+    padding: 10%;
+    font-weight: bold;
+    text-transform: capitalize;
+
+}
+.data
+{
+    text-decoration: underline;
+    font-weight: bold;
+}

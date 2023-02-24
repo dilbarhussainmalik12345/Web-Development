@@ -1,0 +1,41 @@
+h1
+{
+    text-align: center;
+    text-decoration: underline;
+    font-weight: bold;
+
+}
+
+body
+{
+    background-image: url(ubro.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+p
+{
+    text-align: center;
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: 140%;
+}
+
+.ubro
+{
+    font-size: 130%;
+    padding: 10%;
+    font-weight: bold;
+    text-transform: capitalize;
+    color: black;
+    text-decoration: underline;
+
+}
+.cmps
+{
+    font-size: large;
+    padding: 10%;
+    font-weight: bold;
+    text-transform: capitalize;
+    color: black;
+    
+}
